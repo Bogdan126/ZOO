@@ -1,0 +1,12 @@
+C:\Users\Bogdan\source\repos\ZOO\ZOO\bin\Debug\Zoo.mdf
+C:\Users\Bogdan\source\repos\ZOO\ZOO\bin\Debug\Zoo_log.ldf
+C:\Users\Bogdan\source\repos\ZOO\ZOO\bin\Debug\ZOO.exe.config
+C:\Users\Bogdan\source\repos\ZOO\ZOO\bin\Debug\ZOO.exe
+C:\Users\Bogdan\source\repos\ZOO\ZOO\bin\Debug\ZOO.pdb
+C:\Users\Bogdan\source\repos\ZOO\ZOO\obj\Debug\ZOO.csprojResolveAssemblyReference.cache
+C:\Users\Bogdan\source\repos\ZOO\ZOO\obj\Debug\ZOO.Zoomain.resources
+C:\Users\Bogdan\source\repos\ZOO\ZOO\obj\Debug\ZOO.Properties.Resources.resources
+C:\Users\Bogdan\source\repos\ZOO\ZOO\obj\Debug\ZOO.csproj.GenerateResource.Cache
+C:\Users\Bogdan\source\repos\ZOO\ZOO\obj\Debug\ZOO.csproj.CoreCompileInputs.cache
+C:\Users\Bogdan\source\repos\ZOO\ZOO\obj\Debug\ZOO.exe
+C:\Users\Bogdan\source\repos\ZOO\ZOO\obj\Debug\ZOO.pdb
